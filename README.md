@@ -8,7 +8,7 @@ SАМЫЙ АХУЕNNЫЙ ТRАNSLЯТОR V SТИLЕ JDFLAG, RАБОТАЕТ ЧЕ
 ---
 
 ## 🔹 Fуnkции
-- Dvойnой Ctrl+C — kоnvеrtиrуеt tеkst v “FLAGBAL” stиlь
+- Dvойnой Ctrl+C — kоnvеrtиrуеt tеkst v stиlь
 - Ctrl+B — tоже kоnvеrtиrуеt
 - Rабоtаеt vо vsех пrиlожеnиях Windows
 - Миnиmаlьnое оknо s иnstrуkцией и иkоnkой
